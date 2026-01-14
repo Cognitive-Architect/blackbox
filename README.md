@@ -1,2 +1,7 @@
-# blackbox
-BLACKBOX — Long-term evolving system with AI-assisted exploration. Core stays clean, experiments are isolated.
+# BLACKBOX
+
+This repository is the main stage.
+
+- Core logic lives in `core/`
+- Experiments and AI outputs live in `experiments/` or `atoms/*`
+- Main branch stays clean.
